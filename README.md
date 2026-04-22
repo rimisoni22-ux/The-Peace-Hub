@@ -1,5 +1,4 @@
-Gemini said
-Here is a professional, high-quality README.md file tailored for your Peace Hub project. It uses clean formatting, clear sections, and visual hierarchy to make your repository stand out to recruiters and fellow developers.
+
 
 🌿 Peace Hub
 Peace Hub is a minimalist mental wellness web application designed to help users recalibrate, manage stress, and express their thoughts in a supportive digital environment. Built with a focus on simplicity and accessibility, it provides interactive tools that encourage mindfulness and healthy digital habits.
