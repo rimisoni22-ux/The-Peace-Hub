@@ -47,7 +47,7 @@ Installation
 Clone the repository
 
 Bash
-git clone https://github.com/your-username/Peace-Hub.git
+git clone https://github.com/rimisoni22-ux/Peace-Hub.git
 Navigate to the folder
 
 Bash
